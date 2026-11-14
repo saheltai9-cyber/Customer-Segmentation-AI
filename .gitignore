@@ -1,0 +1,15 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+*.egg
+dist/
+build/
+*.zip
+*.log
+.scratch/
+
